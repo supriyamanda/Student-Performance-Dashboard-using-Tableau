@@ -60,3 +60,6 @@ Future enhancements to the dashboard could include:
 - Enhanced visual aesthetics with custom graphics and themes.
 
 Project Link: https://github.com/supriyamanda/student-performance-dashboard
+
+Tableau Public : https://public.tableau.com/views/StudentPerformanceDashboard_17256320087470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
